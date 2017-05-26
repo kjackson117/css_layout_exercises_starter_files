@@ -10,6 +10,7 @@ main{
 .box{
 	border: 1px black solid;
 	display: inline-block;
+}
 .box_half{
 	width: 50%;
 	height: 200px;
